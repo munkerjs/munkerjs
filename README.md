@@ -15,8 +15,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=munkerjs&show_icons=true&theme=tokyonight&count_private=true" alt="munkerjs" height="160" />
 </p>
 
-<p align="center">
-</p>
 
 <hr />
 
@@ -37,10 +35,8 @@
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=munkererkadam&cover_image=true&theme=default" />
   </a>
 </p>
+
 <hr />
-
-
----
 
 <h3 align="center"> Do my projects make your life easier?</h3>
 <p align="center">
