@@ -30,11 +30,6 @@
 
 <hr />
 
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-
 <h3 align="center"> The last song I listened to </h4>
 <p align="center"> <i> (Most probably while coding) </i>
 <p align="center">
