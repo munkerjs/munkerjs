@@ -8,12 +8,6 @@
 
 <h5 align="center"> I ❤ Open-Source</h4>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=munkerjs" alt="munkerjs" height="1" /> </p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=munkerjs&layout=compact&theme=algolia&count_private=true" alt="munkerjs" height="160" />
-<img src="https://github-readme-stats.vercel.app/api?username=munkerjs&show_icons=true&theme=algolia&count_private=true" alt="munkerjs" height="160" />
-</p>
 
 
 <hr />
